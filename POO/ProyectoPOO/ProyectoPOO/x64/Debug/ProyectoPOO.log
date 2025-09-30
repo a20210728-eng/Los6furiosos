@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Equipo\Downloads\POO\ProyectoPOO\ProyectoPOO\MyForm.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProyectoPOO.vcxproj -> C:\Users\Equipo\Downloads\POO\ProyectoPOO\x64\Debug\ProyectoPOO.exe

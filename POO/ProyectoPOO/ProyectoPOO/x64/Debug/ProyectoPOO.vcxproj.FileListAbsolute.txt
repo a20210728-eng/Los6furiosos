@@ -1,0 +1,3 @@
+C:\Users\Equipo\Downloads\POO\ProyectoPOO\ProyectoPOO\x64\Debug\ProyectoPOO.vcxproj.AssemblyReference.cache
+C:\Users\Equipo\Downloads\POO\ProyectoPOO\ProyectoPOO\x64\Debug\ProyectoPOO.MyForm.resources
+C:\Users\Equipo\Downloads\POO\ProyectoPOO\ProyectoPOO\x64\Debug\ProyectoPOO.vcxproj.GenerateResource.cache
